@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Nice to see you.</h1>
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Nice to see you.</h1>
 <h3 align="center">I'm Oscar, a passionate developer from Mexico.</h3>
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lastra-dev&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/lastra-dev)
