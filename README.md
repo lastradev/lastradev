@@ -3,15 +3,15 @@
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lastra-dev&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/lastra-dev)
 
-- 🔭 I’m currently working on [VoidShare](https://github.com/lastra-dev/void-share).
+- 🔭 I’m currently working at [EasyBroker](https://github.com/easybroker).
 
-- 🌱 I’m learning **Flutter and Dart**.
+- 🌱 I’m learning **Ruby**.
 
 - 💬 Ask me about **Neovim and Linux**.
 
 - 📫 Reach me **oscar.glastra@gmail.com**.
 
-- 🛹 Fun fact **I'm learning to skate!**
+- 🐱 Fun fact **I love cats!**
  
 - 😄 Pronouns: He / Him
 
