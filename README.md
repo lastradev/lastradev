@@ -42,7 +42,3 @@
 ### Badge Board:
 
 [![@lastradev's Holopin board](https://holopin.io/api/user/board?user=lastradev)](https://holopin.io/@lastradev)
-
-### Support:
-
-<p><a href="https://www.buymeacoffee.com/lastradev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lastradev" /></a></p><br><br>
