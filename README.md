@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Nice to see you.</h1>
 <h3 align="center">I'm Oscar, a passionate developer from Mexico.</h3>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=lastra-dev&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/lastra-dev)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lastradev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working at [EasyBroker](https://github.com/easybroker).
 
@@ -35,8 +35,8 @@
 ### Stats:
 
 <p>
-<img alt= "stats card" height="150" src="https://github-readme-stats.vercel.app/api?username=lastra-dev&count_private=true&theme=github_dark&show_icons=true">
-<img alt="lang" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastra-dev&layout=compact&theme=github_dark">
+<img alt= "stats card" height="150" src="https://github-readme-stats.vercel.app/api?username=lastradev&count_private=true&theme=github_dark&show_icons=true">
+<img alt="lang" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastradev&layout=compact&theme=github_dark">
 </p>
 
 ### Badge Board:
