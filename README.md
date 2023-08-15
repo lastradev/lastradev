@@ -1,8 +1,6 @@
 <h1 align="center">Hey! Nice to see you.</h1>
 <h3 align="center">I'm Oscar, a passionate developer from Mexico.</h3>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lastradev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 - 🔭 I’m currently working at [EasyBroker](https://github.com/easybroker).
 
 - 🌱 I’m learning **Ruby**.
